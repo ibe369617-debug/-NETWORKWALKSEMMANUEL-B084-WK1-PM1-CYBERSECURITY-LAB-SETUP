@@ -1,6 +1,4 @@
-<img width="1920" height="1080" alt="NATNETWORK SCREENSHOT 2 PAGE" src="https://github.com/user-attachments/assets/ccdc643b-c169-4d7b-a5ce-648526588f09" />
-<img width="1920" height="1080" alt="NATNETWORK SCREENSHOT PAGE" src="https://github.com/user-attachments/assets/0c14a97f-11e5-47c2-9309-37f31ba64103" />
-<img width="1280" height="1280" alt="WhatsApp Image 2026-11-09 at 11 12 05 AM" src="https://github.com/user-attachments/assets/bd8420dc-cbce-4907-8e15-d728940ca0bc" />
+
 # -NETWORKWALKSEMMANUEL-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
 This project focuses on setting up a virtual cybersecurity and penetration-testing laboratory using VirtualBox and Kali Linux.The purpose of the lab is to create a controlled environment where cybersecurity tools, network scanning, reconnaissance, vulnerability assessment, and other security-testing activities can be performed safely and repeatedly.The lab is configured on a private virtual network so that additional machines can be added later and used as targets for authorized security testing.
 Objectives
